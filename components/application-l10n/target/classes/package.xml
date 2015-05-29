@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package>
+<infos>
+<name>L10N Application</name>
+<description>Translations Key management tool</description>
+<licence></licence>
+<author>XWiki.Admin</author>
+<extensionId>org.xwiki.contrib:xwiki-application-l10n</extensionId>
+<version>1.0-SNAPSHOT</version>
+<backupPack>false</backupPack>
+</infos>
+<files>
+<file language="" defaultAction="0">L10NCode.L10NAppPanel</file>
+<file language="" defaultAction="0">L10NCode.UpdateReviews</file>
+<file language="" defaultAction="0">L10N.WebSearch</file>
+<file language="" defaultAction="0">L10NCode.TranslationFileClassSheet20</file>
+<file language="" defaultAction="0">L10N.TranslationRules</file>
+<file language="" defaultAction="0">L10N.AppActions</file>
+<file language="" defaultAction="0">L10NCode.AppActionsSheet</file>
+<file language="" defaultAction="0">L10NCode.Translations</file>
+<file language="" defaultAction="0">L10N.WebHome</file>
+<file language="" defaultAction="0">L10N.Search</file>
+<file language="" defaultAction="0">L10NCode.TranslationClassSheet20</file>
+<file language="" defaultAction="0">L10NCode.PrepareTranslationsSheet</file>
+<file language="" defaultAction="0">L10NCode.L10NApplicationListPanel</file>
+<file language="" defaultAction="0">L10NCode.L10NSkin</file>
+<file language="" defaultAction="0">L10NCode.ShowOutdatedTranslationsSheet</file>
+<file language="" defaultAction="0">L10NCode.CommonPanelSheet</file>
+<file language="" defaultAction="0">L10NCode.WebHomeSheet20</file>
+<file language="" defaultAction="0">L10NCode.Macros20</file>
+<file language="" defaultAction="0">L10NCode.L10NActiveApplicationPanel</file>
+<file language="" defaultAction="0">L10NCode.L10NApplicationClassSheet20</file>
+<file language="" defaultAction="0">L10NCode.TranslationClass</file>
+<file language="" defaultAction="0">L10NCode.WebHome</file>
+<file language="" defaultAction="0">L10NCode.BestContributorsSheet</file>
+<file language="" defaultAction="0">L10NCode.L10NCreateAccountPanel</file>
+<file language="" defaultAction="0">L10NCode.WebPreferences</file>
+<file language="" defaultAction="0">L10NCode.FlushCache</file>
+<file language="" defaultAction="0">L10N.LocaleTranslations</file>
+<file language="" defaultAction="0">L10NCode.TranslationFileClass</file>
+<file language="" defaultAction="0">L10NCode.GetTranslationFile</file>
+<file language="" defaultAction="0">L10NCode.L10NColorTheme</file>
+<file language="" defaultAction="0">L10NCode.LatestTranslationsJSON</file>
+<file language="" defaultAction="0">L10NCode.L10NExistingTranslationsPanel</file>
+<file language="" defaultAction="0">L10N.Flags</file>
+<file language="" defaultAction="0">L10N.LatestTranslations</file>
+<file language="" defaultAction="0">L10NCode.L10NCreateApplicationPanel</file>
+<file language="" defaultAction="0">L10NCode.LatestTranslationsWithHistoryJSON</file>
+<file language="" defaultAction="0">L10NCode.L10NSortedPropertiesGroovy</file>
+<file language="" defaultAction="0">L10NCode.SearchPanel</file>
+<file language="" defaultAction="0">L10NCode.L10NGroovy</file>
+<file language="" defaultAction="0">L10N.FlagsCode</file>
+<file language="" defaultAction="0">L10NCode.L10NClass</file>
+<file language="" defaultAction="0">L10NCode.L10NFixedProperties</file>
+<file language="" defaultAction="0">L10NCode.UpdateTranslations</file>
+<file language="" defaultAction="0">L10NCode.L10NAddLanguagePanel</file>
+<file language="" defaultAction="0">L10NCode.LatestTransSheet20</file>
+<file language="" defaultAction="0">L10NCode.ShowEmptyTranslationsSheet</file>
+<file language="" defaultAction="0">L10N.StatusByLanguage</file>
+<file language="" defaultAction="0">L10N.AddALanguage</file>
+<file language="" defaultAction="0">L10NCode.L10NApplicationClass</file>
+<file language="" defaultAction="0">L10NCode.L10NBestContributors</file>
+<file language="" defaultAction="0">L10NCode.Documentation</file>
+<file language="" defaultAction="0">L10NCode.WebSearchSheet</file>
+<file language="" defaultAction="0">L10N.Refactoring</file>
+<file language="" defaultAction="0">L10NCode.ImportSheet</file>
+<file language="" defaultAction="0">L10NCode.LatestTranslationsLiveTable</file>
+<file language="" defaultAction="0">L10NCode.CompareTranslationFile</file>
+</files>
+</package>
