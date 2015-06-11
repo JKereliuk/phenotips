@@ -409,7 +409,7 @@ public class GeneNomenclatureTest
     }
 
     @Test
-    public void countWithExceptionReturnsNegativeOne() throws ComponentLookupException, URISyntaxException,
+    public void countWithExceptionReturnsNegative1() throws ComponentLookupException, URISyntaxException,
         ClientProtocolException, IOException
     {
         when(this.client.execute(any(HttpUriRequest.class))).thenThrow(new IOException());
